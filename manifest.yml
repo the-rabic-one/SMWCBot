@@ -1,0 +1,6 @@
+---
+applications:
+ - name: SMWCHackLookupBot
+   random-route: true
+   memory: 512M
+
